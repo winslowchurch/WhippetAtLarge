@@ -1,0 +1,152 @@
+{
+    "orangeButton": {
+        "X": 0,
+        "Y": 0,
+        "W": 38,
+        "H": 19
+    },
+    "purpleButton": {
+        "X": 0,
+        "Y": 19,
+        "W": 38,
+        "H": 19
+    },
+    "squareOrangeButton": {
+        "X": 38,
+        "Y": 0,
+        "W": 13,
+        "H": 13
+    },
+    "squarePurpleButton": {
+        "X": 38,
+        "Y": 13,
+        "W": 13,
+        "H": 13
+    },
+    "coinBar": {
+        "X": 52,
+        "Y": 0,
+        "W": 68,
+        "H": 39
+    },
+    "summerIcon": {
+        "X": 160,
+        "Y": 0,
+        "W": 16,
+        "H": 16
+    },
+    "winterIcon": {
+        "X": 176,
+        "Y": 0,
+        "W": 16,
+        "H": 16
+    },
+    "autumnIcon": {
+        "X": 192,
+        "Y": 0,
+        "W": 16,
+        "H": 16
+    },
+    "springIcon": {
+        "X": 208,
+        "Y": 0,
+        "W": 16,
+        "H": 16
+    },
+    "mansionPartyIcon": {
+        "X": 224,
+        "Y": 0,
+        "W": 16,
+        "H": 16
+    },
+    "fourthOfJulyIcon": {
+        "X": 160,
+        "Y": 16,
+        "W": 16,
+        "H": 16
+    },
+    "christmasIcon": {
+        "X": 176,
+        "Y": 16,
+        "W": 16,
+        "H": 16
+    },
+    "birthdayIcon": {
+        "X": 176,
+        "Y": 16,
+        "W": 16,
+        "H": 16
+    },
+    "valentinesIcon": {
+        "X": 192,
+        "Y": 16,
+        "W": 16,
+        "H": 16
+    },
+    "heartIcon": {
+        "X": 210,
+        "Y": 35,
+        "W": 10,
+        "H": 10
+    },
+    "skullIcon": {
+        "X": 226,
+        "Y": 51,
+        "W": 10,
+        "H": 10
+    },
+    "inventoryBar": {
+        "X": 0,
+        "Y": 40,
+        "W": 197,
+        "H": 25
+    },
+    "inventorySlotHighlight": {
+        "X": 128,
+        "Y": 16,
+        "W": 19,
+        "H": 19
+    },
+    "inventoryBox": {
+        "X": 208,
+        "Y": 64,
+        "W": 17,
+        "H": 17
+    },
+    "inventoryBoxHover": {
+        "X": 227,
+        "Y": 64,
+        "W": 17,
+        "H": 17
+    },
+    "lifeBar": {
+        "X": 0,
+        "Y": 66,
+        "W": 15,
+        "H": 86
+    },
+    "itemInfoBox": {
+        "X": 16,
+        "Y": 85,
+        "W": 56,
+        "H": 59
+    },
+    "promptBox": {
+        "X": 73,
+        "Y": 85,
+        "W": 135,
+        "H": 38
+    },
+    "dialogueBox": {
+        "X": 73,
+        "Y": 136,
+        "W": 135,
+        "H": 56
+    },
+    "announcementBox": {
+        "X": 16,
+        "Y": 66,
+        "W": 144,
+        "H": 18
+    }
+}

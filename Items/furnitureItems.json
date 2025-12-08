@@ -1,0 +1,131 @@
+[
+    {
+        "Name": "White Potted Plant",
+        "Category": "Furniture",
+        "Description": "A lovely little houseplant."
+    },
+    {
+        "Name": "Sink",
+        "Category": "Furniture",
+        "Description": "Good for rinsing off dirt."
+    },
+    {
+        "Name": "Fridge",
+        "Category": "Furniture",
+        "Description": "Keeps your food cold."
+    },
+    {
+        "Name": "Bamboo Potted Plant",
+        "Category": "Furniture",
+        "Description": "Decorative only. Sorry."
+    },
+    {
+        "Name": "Flower Display",
+        "Category": "Furniture",
+        "Description": "A little color makes the whole room kinder."
+    },
+    {
+        "Name": "Cuckoo Clock",
+        "Category": "Furniture",
+        "Description": "Tick tock."
+    },
+    {
+        "Name": "Wooden Side Table",
+        "Category": "Furniture",
+        "Description": "A simple side table."
+    },
+    {
+        "Name": "Lamp Side Table",
+        "Category": "Furniture",
+        "Description": "A lit side table."
+    },
+    {
+        "Name": "Valley Painting",
+        "Category": "Furniture",
+        "Description": "What a masterpiece."
+    },
+    {
+        "Name": "Light Stove",
+        "Category": "Furniture",
+        "Description": "Gets pretty hot."
+    },
+    {
+        "Name": "Pink Framed Butterfly",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Framed Butterfly",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Couch",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Square Table",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Red Square Table",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Wood Square Table",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Bed",
+        "Category": "Furniture",
+        "Description": "Sweet dreams await."
+    },
+    {
+        "Name": "Green Table",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Table",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Candlestick",
+        "Category": "Furniture",
+        "Description": "Provides a warm glow."
+    },
+    {
+        "Name": "Green Counter",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Blue Counter",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Pink Counter",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Package",
+        "Category": "Furniture",
+        "Description": "What could be inside?"
+    },
+    {
+        "Name": "Wall Candle",
+        "Category": "Furniture"
+    },
+    {
+        "Name": "Bowl of Lemons",
+        "Category": "Furniture",
+        "Description": "Fresh citrus for decoration."
+    },
+    {
+        "Name": "Hanging Pans",
+        "Category": "Furniture",
+        "Description": "Practical and decorative."
+    },
+    {
+        "Name": "Furnace",
+        "Category": "Furniture",
+        "Description": "Keeps the house warm."
+    }
+]
+

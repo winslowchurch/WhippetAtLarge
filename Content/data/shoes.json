@@ -1,0 +1,12 @@
+{
+    "shoestyles": [
+        {
+            "name": "Leather Boots",
+            "spriteColumn": 0
+        },
+        {
+            "name": "Blue Sneakers",
+            "spriteColumn": 1
+        }
+    ]
+}

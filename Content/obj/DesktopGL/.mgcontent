@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/fonts/PixelPurl.spritefont</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/fonts/FancyPixel.spritefont</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/buildings/cabin.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/buildings/house1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/buildings/house2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/charlesPortrait.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/janePortrait.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/lorettaPortrait.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/nunWalkingSprite.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/rhettDead.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/rhettPortrait.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/rhettSwingBack.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/rhettSwingFront.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/rhettWalkingSprite.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/characters/sadiePortrait.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/barCart.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/bed1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/clock.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/dresser.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/elkMount.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/floorLamp.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerDisplay1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerDisplay2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerDisplay3.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerDisplay4.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerPot.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/flowerStand1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/fridge.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/furnace.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/meshDivider.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/painting1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/recordPlayer.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/rug1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/sideTable1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/sideTable2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/sink.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/sofa1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/sofa2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/stoneFence.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/window1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/window2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/window3.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/window4.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/decoration/woodChair.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/desert1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/desert2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/desert3.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/grass1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/grass2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/grassPath.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/rock.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/skull.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall3.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall4.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall5.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall6.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall7.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall8.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/nature/wall9.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/ui/coinBar.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/blueStripeWall.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/ceiling1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/ceiling2.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/ceiling3.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/ceiling4.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/tileFloor.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/woodFloor.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/walls/woodWall.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/weather/butterflySprites.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/weather/rainFloorSprite.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/graphics/weather/rainSprite.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/bite.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/flameOn.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/footstep.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/lightSwitch.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/pop.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/success.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/textBlip.mp3</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/title1.png</File>
+    <File>/Users/winslowchurch/Desktop/Honeyspur/Content/title2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

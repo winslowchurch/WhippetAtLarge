@@ -1,0 +1,16 @@
+{
+    "shirtstyles": [
+        {
+            "name": "Seafoam Apron",
+            "spriteColumn": 0
+        },
+        {
+            "name": "Navy Shirt",
+            "spriteColumn": 1
+        },
+        {
+            "name": "Blue Apron",
+            "spriteColumn": 2
+        }
+    ]
+}

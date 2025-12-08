@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/spray2.mp3</SourceFile>
+  <SourceTime>2025-10-14T15:27:47.178162-07:00</SourceTime>
+  <DestFile>/Users/winslowchurch/Desktop/Honeyspur/Content/bin/DesktopGL/Content/sounds/spray2.xnb</DestFile>
+  <DestTime>2025-11-08T10:31:28.4781415-08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-04-05T03:10:54-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T03:10:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

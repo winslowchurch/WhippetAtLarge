@@ -1,0 +1,481 @@
+[
+    {
+        "Name": "Lemon",
+        "Category": "Food",
+        "IconX": 16,
+        "IconY": 80,
+        "HealthValue": 5,
+        "Description": "Less sweet more sour."
+    },
+    {
+        "Name": "Hot Chocolate",
+        "Category": "Drink",
+        "IconX": 16,
+        "IconY": 0,
+        "HealthValue": 5,
+        "Description": "Liquid gold."
+    },
+    {
+        "Name": "Mocha",
+        "Category": "Drink",
+        "IconX": 32,
+        "IconY": 0,
+        "HealthValue": 5,
+        "Description": "Sweet and rich."
+    },
+    {
+        "Name": "Pear",
+        "Category": "Food",
+        "IconX": 32,
+        "IconY": 80,
+        "HealthValue": 5,
+        "Description": "A respectable snack."
+    },
+    {
+        "Name": "Brugmansia",
+        "Category": "Flower",
+        "IconX": 64,
+        "IconY": 80
+    },
+    {
+        "Name": "Brugmansia Tree Seed",
+        "Category": "Flower",
+        "IconX": 64,
+        "IconY": 64,
+        "PlacedTileName": "Brugmansia Tree"
+    },
+    {
+        "Name": "Lime",
+        "Category": "Food",
+        "IconX": 48,
+        "IconY": 80,
+        "HealthValue": 5,
+        "Description": "Good for cooking, I suppose."
+    },
+    {
+        "Name": "Lemon Cake",
+        "Category": "Food",
+        "IconX": 48,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Light, bright, and full of cheer."
+    },
+    {
+        "Name": "Cinnamon Roll",
+        "Category": "Food",
+        "IconX": 64,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Still warm from the oven!"
+    },
+    {
+        "Name": "Coffee",
+        "Category": "Drink",
+        "IconX": 80,
+        "IconY": 0,
+        "HealthValue": 5,
+        "Description": "Puts a pep in your step."
+    },
+    {
+        "Name": "Pretzel",
+        "Category": "Food",
+        "IconX": 96,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "A yummy treat."
+    },
+    {
+        "Name": "Rocket Pop",
+        "Category": "Food",
+        "IconX": 112,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Melts fast in the summer sun."
+    },
+    {
+        "Name": "Matcha",
+        "Category": "Drink",
+        "IconX": 128,
+        "IconY": 0,
+        "HealthValue": 5,
+        "Description": "Calm in a cup"
+    },
+    {
+        "Name": "Soda",
+        "Category": "Food",
+        "IconX": 144,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "All fizz, no fuss."
+    },
+    {
+        "Name": "Bread Roll",
+        "Category": "Food",
+        "IconX": 160,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Can't go wrong with carbs."
+    },
+    {
+        "Name": "Bear Puff",
+        "Category": "Food",
+        "IconX": 176,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Almost too adorable to eat."
+    },
+    {
+        "Name": "Croissant",
+        "Category": "Food",
+        "IconX": 144,
+        "IconY": 0,
+        "HealthValue": 10,
+        "Description": "Will get crumbs on your shirt."
+    },
+    {
+        "Name": "Shears",
+        "Category": "Tool",
+        "ToolType": "Shears",
+        "IconX": 48,
+        "IconY": 16
+    },
+    {
+        "Name": "Axe",
+        "Category": "Tool",
+        "IconX": 64,
+        "IconY": 16
+    },
+    {
+        "Name": "Blue Hydrenga Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 0,
+        "IconY": 32,
+        "PlacedTileName": "Blue Hydrengas Bush"
+    },
+    {
+        "Name": "Pink Hydrenga Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 16,
+        "IconY": 32,
+        "PlacedTileName": "Pink Hydrengas Bush"
+    },
+    {
+        "Name": "Daffodil Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerPlant",
+        "IconX": 32,
+        "IconY": 32,
+        "PlacedTileName": "Daffodil Plant"
+    },
+    {
+        "Name": "Red Rose Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 48,
+        "IconY": 32,
+        "PlacedTileName": "Red Roses Bush"
+    },
+    {
+        "Name": "Purple Rose Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 176,
+        "IconY": 32,
+        "PlacedTileName": "Purple Roses Bush"
+    },
+    {
+        "Name": "Orchid Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerPlant",
+        "IconX": 192,
+        "IconY": 32,
+        "PlacedTileName": "Orchid Plant"
+    },
+    {
+        "Name": "Dahlia Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerPlant",
+        "IconX": 208,
+        "IconY": 32,
+        "PlacedTileName": "Dahlia Plant"
+    },
+    {
+        "Name": "Lavender Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerPlant",
+        "IconX": 224,
+        "IconY": 32,
+        "PlacedTileName": "Lavender Plant"
+    },
+    {
+        "Name": "Pink Lily Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 64,
+        "IconY": 32,
+        "PlacedTileName": "Pink Lillies Bush"
+    },
+    {
+        "Name": "White Lily Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 80,
+        "IconY": 32,
+        "PlacedTileName": "White Lillies Bush"
+    },
+    {
+        "Name": "Moonflower Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 96,
+        "IconY": 32,
+        "PlacedTileName": "Moonflower Bush"
+    },
+    {
+        "Name": "Blue Hibiscus Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 112,
+        "IconY": 32,
+        "PlacedTileName": "Blue Hibiscus Bush"
+    },
+    {
+        "Name": "Orange Hibiscus Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 128,
+        "IconY": 32,
+        "PlacedTileName": "Orange Hibiscus Bush"
+    },
+    {
+        "Name": "Pink Hibiscus Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 144,
+        "IconY": 32,
+        "PlacedTileName": "Pink Hibiscus Bush"
+    },
+    {
+        "Name": "Yellow Rose Seed",
+        "Category": "Seed",
+        "SeedType": "FlowerBush",
+        "IconX": 160,
+        "IconY": 32,
+        "PlacedTileName": "Yellow Roses Bush"
+    },
+    {
+        "Name": "Lemon Tree Seed",
+        "Category": "Seed",
+        "SeedType": "Tree",
+        "IconX": 16,
+        "IconY": 64,
+        "PlacedTileName": "Lemon Tree"
+    },
+    {
+        "Name": "Pear Tree Seed",
+        "Category": "Seed",
+        "SeedType": "Tree",
+        "IconX": 32,
+        "IconY": 64,
+        "PlacedTileName": "Pear Tree"
+    },
+    {
+        "Name": "Lime Tree Seed",
+        "Category": "Seed",
+        "SeedType": "Tree",
+        "IconX": 48,
+        "IconY": 64,
+        "PlacedTileName": "Lime Tree"
+    },
+    {
+        "Name": "Wisteria Tree Seed",
+        "Category": "Seed",
+        "SeedType": "Tree",
+        "IconX": 80,
+        "IconY": 64,
+        "PlacedTileName": "Wisteria Tree"
+    },
+    {
+        "Name": "Wisteria",
+        "Category": "Flower",
+        "IconX": 80,
+        "IconY": 80
+    },
+    {
+        "Name": "Mystery Seeds",
+        "Category": "Seed",
+        "IconX": 224,
+        "IconY": 16,
+        "Description": "Plant me and see what grows."
+    },
+    {
+        "Name": "Blue Hydrenga",
+        "Category": "Flower",
+        "IconX": 0,
+        "IconY": 48
+    },
+    {
+        "Name": "Pink Hydrenga",
+        "Category": "Flower",
+        "IconX": 16,
+        "IconY": 48
+    },
+    {
+        "Name": "Daffodil",
+        "Category": "Flower",
+        "IconX": 32,
+        "IconY": 48
+    },
+    {
+        "Name": "White Lily",
+        "Category": "Flower",
+        "IconX": 80,
+        "IconY": 48
+    },
+    {
+        "Name": "Pink Lily",
+        "Category": "Flower",
+        "IconX": 64,
+        "IconY": 48
+    },
+    {
+        "Name": "Red Rose",
+        "Category": "Flower",
+        "IconX": 48,
+        "IconY": 48
+    },
+    {
+        "Name": "Yellow Rose",
+        "Category": "Flower",
+        "IconX": 160,
+        "IconY": 48
+    },
+    {
+        "Name": "Purple Rose",
+        "Category": "Flower",
+        "IconX": 176,
+        "IconY": 48
+    },
+    {
+        "Name": "Orchid",
+        "Category": "Flower",
+        "IconX": 192,
+        "IconY": 48
+    },
+    {
+        "Name": "Dahlia",
+        "Category": "Flower",
+        "IconX": 208,
+        "IconY": 48
+    },
+    {
+        "Name": "Lavender",
+        "Category": "Flower",
+        "IconX": 224,
+        "IconY": 48
+    },
+    {
+        "Name": "Orange Hibiscus",
+        "Category": "Flower",
+        "IconX": 128,
+        "IconY": 48
+    },
+    {
+        "Name": "Pink Hibiscus",
+        "Category": "Flower",
+        "IconX": 144,
+        "IconY": 48
+    },
+    {
+        "Name": "Blue Hibiscus",
+        "Category": "Flower",
+        "IconX": 112,
+        "IconY": 48
+    },
+    {
+        "Name": "Moonflower",
+        "Category": "Flower",
+        "IconX": 96,
+        "IconY": 48
+    },
+    {
+        "Name": "Cherry Blossom",
+        "Category": "Flower",
+        "IconX": 0,
+        "IconY": 80
+    },
+    {
+        "Name": "Cherry Blossom Tree Seed",
+        "Category": "Flower",
+        "IconX": 0,
+        "IconY": 64,
+        "PlacedTileName": "Cherry Blossom Tree"
+    },
+    {
+        "Name": "Dead Flower",
+        "Category": "Flower",
+        "IconX": 160,
+        "IconY": 16,
+        "Description": "You killed it?!"
+    },
+    {
+        "Name": "Rotten Fruit",
+        "Category": "Food",
+        "IconX": 144,
+        "IconY": 16,
+        "HealthValue": -10,
+        "Description": "Yuck!"
+    },
+    {
+        "Name": "Spray Bottle",
+        "Category": "Tool",
+        "ToolType": "WateringCan",
+        "IconX": 96,
+        "IconY": 16
+    },
+    {
+        "Name": "Wooden Axe",
+        "Category": "Tool",
+        "IconX": 192,
+        "IconY": 80,
+        "Description": "It'll get the job done."
+    },
+    {
+        "Name": "Wooden Hoe",
+        "Category": "Tool",
+        "ToolType": "Hoe",
+        "IconX": 208,
+        "IconY": 80,
+        "Description": "It's a little rusty."
+    },
+    {
+        "Name": "Wooden Shovel",
+        "Category": "Tool",
+        "IconX": 224,
+        "IconY": 80,
+        "Description": "Built for digging."
+    },
+    {
+        "Name": "Wet Fertilizer",
+        "Category": "Tool",
+        "IconX": 192,
+        "IconY": 64,
+        "Description": "Plants are more likely to stay watered overnight."
+    },
+    {
+        "Name": "Bloom Fertilizer",
+        "Category": "Tool",
+        "IconX": 208,
+        "IconY": 64,
+        "Description": "Keeps flowers in bloom longer."
+    },
+    {
+        "Name": "Growth Fertilizer",
+        "Category": "Tool",
+        "IconX": 224,
+        "IconY": 64,
+        "Description": "Makes flowers grow a bit faster."
+    }
+]

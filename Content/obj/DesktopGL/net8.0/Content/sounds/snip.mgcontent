@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/winslowchurch/Desktop/Honeyspur/Content/sounds/snip.mp3</SourceFile>
+  <SourceTime>2025-06-10T20:08:52.546385-07:00</SourceTime>
+  <DestFile>/Users/winslowchurch/Desktop/Honeyspur/Content/bin/DesktopGL/Content/sounds/snip.xnb</DestFile>
+  <DestTime>2025-06-10T20:09:49.9238689-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-04-05T03:10:54-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T03:10:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

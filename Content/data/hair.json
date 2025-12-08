@@ -1,0 +1,56 @@
+{
+    "hairstyles": [
+        {
+            "name": "Straight",
+            "spriteColumn": 0
+        },
+        {
+            "name": "High Bun",
+            "spriteColumn": 1
+        },
+        {
+            "name": "Bubble pony",
+            "spriteColumn": 2
+        },
+        {
+            "name": "Low Bun",
+            "spriteColumn": 3
+        },
+        {
+            "name": "Long Wavy",
+            "spriteColumn": 4
+        },
+        {
+            "name": "Bob",
+            "spriteColumn": 5
+        },
+        {
+            "name": "Ponytail",
+            "spriteColumn": 6
+        },
+        {
+            "name": "Double Braids",
+            "spriteColumn": 7
+        },
+        {
+            "name": "Messy Short",
+            "spriteColumn": 8
+        },
+        {
+            "name": "Sideswept Short",
+            "spriteColumn": 9
+        },
+        {
+            "name": "Spiky",
+            "spriteColumn": 10
+        },
+        {
+            "name": "Half Up",
+            "spriteColumn": 11
+        },
+        {
+            "name": "Side Pony",
+            "spriteColumn": 12
+        }
+    ]
+}
