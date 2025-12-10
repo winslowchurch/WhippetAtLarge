@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Honeyspur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bbd635707b47423a889904b24733e179297d229")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d32e922bae7352091a8d929804d9c74bb4f812")]
 [assembly: System.Reflection.AssemblyProductAttribute("Honeyspur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Honeyspur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

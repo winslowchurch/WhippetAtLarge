@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/winslowchurch/Desktop/LemonOnTheLam/Honeyspur.csproj",
+      "projectUniqueName": "/Users/winslowchurch/Desktop/WhippetAtLarge/Honeyspur.csproj",
       "projectName": "Honeyspur",
-      "projectPath": "/Users/winslowchurch/Desktop/LemonOnTheLam/Honeyspur.csproj",
+      "projectPath": "/Users/winslowchurch/Desktop/WhippetAtLarge/Honeyspur.csproj",
       "packagesPath": "/Users/winslowchurch/.nuget/packages/",
-      "outputPath": "/Users/winslowchurch/Desktop/LemonOnTheLam/obj/",
+      "outputPath": "/Users/winslowchurch/Desktop/WhippetAtLarge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/winslowchurch/.nuget/NuGet/NuGet.Config"
